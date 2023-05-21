@@ -7,7 +7,7 @@
 ## Стек
 
 ```bash
-Python=3.11
+Python=3.10.11
 OpenCV=4.7
 NumPy=1.23
 ```

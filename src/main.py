@@ -1,10 +1,9 @@
-from random import randint
 import numpy as np
 import cv2
 import sys
 sys.setrecursionlimit(10000000)
 
-img = cv2.imread("../resources/assets/img3.png")
+img = cv2.imread("../resources/assets/img1.png")
 
 
 def preprocess(img):
